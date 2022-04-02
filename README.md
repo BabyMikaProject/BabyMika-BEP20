@@ -1,8 +1,7 @@
 # BabyMika
 
 // Website: http://Babymika.xyz
-
-// Telegram: t.me/officialBabyMika
+// Telegram: http://t.me/officialBabyMika
 
 The contract takes a 10% fee:
  - 4% is redistributed to all holders

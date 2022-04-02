@@ -1,6 +1,7 @@
 # BabyMika
 
 // Website: http://Babymika.xyz
+
 // Telegram: http://t.me/officialBabyMika
 
 The contract takes a 10% fee:
@@ -12,7 +13,7 @@ The contract takes a 10% fee:
 ## Overview of Contract Functions:
 
 1. Add & Remove Blacklist 
-2. Include & Exclude Rewards (Excluding other contracts fron getting Reflextion)
+2. Include & Exclude Rewards (Excluding other contracts from getting Reflextion)
 3. SetFee - Special Fees for other Contracts (CEX, Marketplace, Mikaverse, and Etc)
 4. SetFees - There is no max TX amount and the total fees can be set to at most 10%
 5. Add New Pair Address - Adding New BSC pair to BBMK
